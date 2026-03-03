@@ -1,0 +1,1 @@
+This project contains a 5 stage pipelined RISC-V processor. The stages are fetch, decode, execute, memory, and writeback. Parts of this project were reused from another author, Diego Curiel. The processor has cache, forwarding, hazard detection, and branch prediction. 
